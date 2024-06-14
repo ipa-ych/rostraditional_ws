@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nhg-yc/ros2_ws/tricycle_ws/install/pointcloud_to_laserscan/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/nhg-yc/ros2_ws/tricycle_ws/src/pointcloud_to_laserscan/include/**",
+        "/home/nhg-yc/ros2_ws/tricycle_ws/src/tricycle_sim/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
